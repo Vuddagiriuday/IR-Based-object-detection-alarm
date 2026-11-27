@@ -175,6 +175,3 @@ The project report lists these references:
 - [Electronics Hub](https://www.electronicshub.org)
 - [SparkFun Electronics](https://www.sparkfun.com)
 
----
-
-*This README summarizes the submitted project report and poster. Performance values are the results reported in those project materials.*
